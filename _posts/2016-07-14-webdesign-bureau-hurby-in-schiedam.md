@@ -14,10 +14,10 @@ inLanguage: nl
 app_links: []
 isBasedOnUrl: 'http://www.hurby.com/'
 title: webdesign bureau Hurby in Schiedam
-datePublished: '2016-07-14T18:54:36.121Z'
-dateModified: '2016-07-14T18:51:24.096Z'
+datePublished: '2016-07-14T18:57:59.936Z'
+dateModified: '2016-07-14T18:57:59.528Z'
 sourcePath: _posts/2016-07-14-webdesign-bureau-hurby-in-schiedam.md
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
