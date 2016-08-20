@@ -12,15 +12,14 @@ description: >-
   maken met een webdesign geschikt voor mobiel en ipad, incl. hosting en CMS.
 inLanguage: nl
 app_links: []
-isBasedOnUrl: 'http://www.hurby.com/'
 title: webdesign bureau Hurby in Schiedam
-datePublished: '2016-07-14T18:57:59.936Z'
-dateModified: '2016-07-14T18:57:59.528Z'
+datePublished: '2016-08-20T15:54:19.462Z'
+dateModified: '2016-08-20T15:54:19.093Z'
 sourcePath: _posts/2016-07-14-webdesign-bureau-hurby-in-schiedam.md
+hasPage: true
+via: {}
 starred: true
-inFeed: true
-hasPage: false
-inNav: false
+url: webdesign-bureau-hurby-in-schiedam/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
