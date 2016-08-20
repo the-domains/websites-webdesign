@@ -12,3 +12,7 @@ color:
     - '#FFE11A'
     - '#FD7400'
 name: Websites & webdesign
+navigation:
+  - name: webdesign bureau Hurby in Schiedam
+    id: 621c6abd-cbaa-4155-8b2e-393882111b71
+    type: content
